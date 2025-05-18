@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ankur Vishnoi</h1>
-<h3 align="center">I'm a semiconductor professional with a passion for designing and testing of wireless communication systems. My focus is on building energy-efficient, high-performance wireless network that power today's most advanced technologies — from IoT to AI accelerators and 5G infrastructure.</h3>
+<h3 align="center">I'm a semiconductor professional with a passion for designing and testing of wireless communication systems. My focus is on building energy-efficient, high-performance wireless network that power today's most advanced technologies — from AI accelerators to 5G infrastructure.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankurvishnoi&label=Profile%20views&color=0e75b6&style=flat" alt="ankurvishnoi" /> </p>
 
 - 🔭 I’m currently working on [PHY layer optimization using ML Algorithms](https://github.com/AnkurVishnoi/ml-with-phy-layer)
 
-- 🌱 I’m currently learning **MCP, Agentic AI, LLM, SLM, KubeEdge, HW accelerators, 5G and 6G**
+- 🌱 I’m currently learning **MCP, Agentic AI, LLM, SLM, KubeEdge, AI acceleration in 5G and 6G baseband**
 
 - 👯 I’m looking to collaborate on **Implementation Machine Learning Algorithms in Wireless Communication**
 
