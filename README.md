@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on Implementation Machine Learning Algorithms in Wireless Communication.
+- 🌱 I’m currently learning MCP, Agentic AI, LLM, SLM, KubeEdge, HW accelerators, 5G and 6G.
+- 👯 I’m looking to collaborate on application of Machine Learning in wireless communication.
 <!--
 **AnkurVishnoi/AnkurVishnoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
